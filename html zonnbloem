@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sunflower Website</title>
+  <style>
+    body {
+      background-color: #F9F9F9;
+      font-family: Arial, sans-serif;
+    }
+    
+    header {
+      background-color: #FFD700;
+      padding: 20px;
+      text-align: center;
+      color: #333;
+    }
+    
+    h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+    
+    main {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    .sunflower-image {
+      display: block;
+      max-width: 100%;
+      margin-bottom: 20px;
+    }
+    
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Sunflower Website!</h1>
+  </header>
+  
+  <main>
+    <img class="sunflower-image" src="sunflower.jpg" alt="Sunflower">
+    
+    <h2>About Sunflowers</h2>
+    
+    <p>
+      Sunflowers are beautiful and vibrant flowers that symbolize happiness, loyalty, and adoration. They are known for their bright yellow color and large size.
+    </p>
+    
+    <p>
+      Sunflowers are native to North and Central America and are cultivated all around the world for their seeds, oil, and ornamental value. They are popular in gardens, floral arrangements, and even as food.
+    </p>
+    
+    <h2>Growing Sunflowers</h2>
+    
+    <p>
+      Sunflowers are relatively easy to grow. They require plenty of sunlight and well-drained soil. Plant the seeds in spring, and they will start to bloom in summer, adding a splash of color to your garden.
+    </p>
+    
+    <p>
+      Sunflowers can grow quite tall, so make sure to provide them with proper support. They also attract bees and birds, making them a great addition to any wildlife-friendly garden.
+    </p>
+  </main>
+</body>
+</html>
